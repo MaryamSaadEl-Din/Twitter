@@ -1,0 +1,113 @@
+body{
+    background-color: black;
+}
+
+#logo{
+    position: absolute;
+    right: 15%;
+    top: 20%;
+}
+
+#now{
+    color: rgb(230, 231, 233);
+    font-family: Tahoma;
+    font-size: 25;
+    position: absolute;
+    left: 25%;
+    top: 7%;
+}
+
+#day{
+    color: rgb(230, 231, 233);
+    font-family: Tahoma;
+    font-size: 12;
+    position: absolute;
+    left: 33%;
+    top: 25%;
+}
+
+#login{
+    background-color: black;
+    position: absolute;
+    top: 37%;
+    left: 19%;
+    width: 350px;
+}
+
+input[id="google"]{
+    width: 305px;
+    height: 40px;
+    border: hidden;
+    border-radius: 25px;
+    background-color: white;
+    padding-left: 5%;
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-bottom: 2px;
+    color: rgb(59, 59, 59);
+    text-align: center;
+    font-size: large;
+}
+input[id="apple"]{
+    width: 305px;
+    height: 40px;
+    border: hidden;
+    border-radius: 25px;
+    background-color: white;
+    padding-left: 5%;
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-bottom: 5px;
+    color: black;
+    text-align: center;
+    font-size: larger;
+}
+
+p{
+    color: rgb(204, 204, 204);
+    font-family: Tahoma;
+    padding-left: 2%;
+}
+
+input[id="account"]{
+    width: 305px;
+    height: 40px;
+    border: hidden;
+    border-radius: 25px;
+    background-color: rgb(29, 155, 240);
+    padding-left: 5%;
+    margin-top: 5px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    color: white;
+    font-size: x-large;
+    text-align: center;
+}
+
+#note{
+    color: rgb(109, 109, 109);
+    font-size: smaller;
+}
+
+#already{
+    color: rgb(230, 231, 233);
+    font-family: Tahoma;
+    font-size: 10;
+    padding-left: 100px;
+    padding-top: 10px;
+}
+
+input[id="signin"]{
+    width: 305px;
+    height: 40px;
+    border: 2px solid rgb(39, 43, 46);
+    border-radius: 25px;
+    background-color: black;
+    padding-left: 5%;
+    margin-top: 5px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    color: rgb(53, 151, 224);
+    font-size: x-large;
+    text-align: center;
+}
